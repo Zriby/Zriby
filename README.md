@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zriby
-- 👀 I’m interested in and learning data science, machine learning and data engineering. 
-- 🌱 I have a masters degree in Computer and Electrical Engineering from Concordia university, Montreal.
+- 👀 I’m interested in and learning data science, machine learning and data Engineering. 
+- 🌱 I have a masters degree in Computer and Electrical Engineering from Concordia University, Montreal.
+- I also have a degree in Data Science from Udacity.
 - 💞️ Self-Driven with strong mathematical and programming skills with a passion for learning.
 - 📫 How to reach me: ahmedzribi32@gmail.com or https://www.linkedin.com/in/ahmed-zribi-eng/
 
